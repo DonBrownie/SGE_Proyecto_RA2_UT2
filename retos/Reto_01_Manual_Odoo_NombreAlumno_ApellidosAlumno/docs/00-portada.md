@@ -1,8 +1,6 @@
 # Manual de Odoo — {Nombre Apellidos}
 
-```md
-![Texto alternativo](../assets/img/00-Portada/Portada-odoo.png "Crear cita")
-```
+![Texto-alternativo](../assets/img/00-Portada/Portada-odoo.png)
 
 **Reto:** Manual_Odoo_Rodrigo_Montoya_Pastor
 **Proyecto:** Proyecto_RA2_UT2
