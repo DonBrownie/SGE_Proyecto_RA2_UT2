@@ -43,8 +43,6 @@ Nos mostrará la siguiente pantalla aqui se podrá elegir las aplicaciones las c
 
 Podemos buscar estas aplicaciones tanto por nombre (barra de búsqueda) como por categoría (panel de la izquierda)
 
-<img src="../assets/img/03-instalacion/instalacionAPp.png" alt="panel principal" width="400">
-
 Para instalar un modulo una vez elegidos los modulos buscaremos el que nos interese y simplemente le daremos a instalar (en caso de que estemos con la version gratuita no dejara ya que solo permite 10 modulos)
 
 <img src="../assets/img/03-instalacion/desinstalarApp.png" alt="panel principal" width="400">
