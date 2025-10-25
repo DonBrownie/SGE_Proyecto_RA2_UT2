@@ -18,6 +18,14 @@ Dentro podremos cambiar el tema (y activar el modo oscuro), podremos decidir si 
 
 Dentro de la misma pantalla nos podremos ir a seguridad y aqui podemos activar la doble autenticación o cambiar la contraseña en caso de que se nos olvide
 
+### Usuarios y compañias
+
+<img src="../assets/img/04-ajustes_generales/ajustesGenerales-roles.png" alt="datos" width="600">
+
+Para poner roles a cada usuario tendremos que seleccionar ajustes desde el panel de aplicaciones, luego le daremos a usuario sy compañias y seleccionamos el usuario al cual queremos modificar.
+
+Dentro de esa pantalla podremos modificar un rol principal (usuario o administrador) y abajo los roles por modulo
+
 # DUDAS DE COMO HACERLO Y A QUE SE REFIERE
 
 - **Usuarios y compañías**: roles por módulo; en Enterprise se paga por usuario.
