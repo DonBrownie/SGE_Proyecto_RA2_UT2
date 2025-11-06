@@ -18,17 +18,10 @@ https://nombre.odoo.com/google_account/authentication
 
 Una vez terminado tendremos que ir a credenciales y copiar el ID de cliente en Ajustes->Calendario y lo mismo con el Secreto de cliente.
 
-
 Para añadir algun evento simplemente le pincahamos a cualquier parte del calendario y se nos abrirá la siguiente pantalla, le damos a mas opciones para verlo al completo
 
 <img src="../assets/img/07-calendario_y_citas/calendario-Evento.png" alt="crearBD" width="400">
 
 <img src="../assets/img/07-calendario_y_citas/calendario-EventoOpciones.png" alt="crearBD" width="800">
 
-Desde aqui podemos seleccionar la duracion, la ubicación o incluso poner un enlace a alguna videollamada, ya sea desde google meet o cualquier otra web de videollamas.
-
-
-
-- **Módulo Citas** (Enterprise): enlaces públicos, buffers, preguntas previas.
-
-![Calendario](../assets/img/07-calendario_y_citas/paso01_calendario.png "Calendario")
+Desde aqui podemos seleccionar la duracion, la ubicación o incluso poner un enlace a alguna videollamada, ya sea desde google meet o cualquier otra web de videollamadas.
