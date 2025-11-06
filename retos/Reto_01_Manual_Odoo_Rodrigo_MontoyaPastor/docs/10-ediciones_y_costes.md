@@ -25,8 +25,3 @@ Odoo también ofrence un contrato que puedes pagarlo mensual o anualmente. Este 
 La edicion de pago de Odoo (Enterprise) te da la opcion de probar la versión de prueba, esta será de 15 dias y con algunas restricciones.
 
 Como que puedas instalar hasta un máximo de 10 apps o módulos, crear una base de datos de prueba
-
-- **Community** (gratis, usuarios ilimitados, mantenimiento propio).
-- **Enterprise** (SaaS, soporte, actualizaciones, app móvil, Odoo Studio).
-- **Contrato anual** aunque el pago sea mensual.
-- Prueba: **máx. 10 apps**.
