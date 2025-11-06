@@ -1,4 +1,6 @@
-# 08 — Proyectos (Kanban)
+#
+
+08 — Proyectos (Kanban)
 
 ### Proyectos, etapas, tareas, **subtareas**.
 
@@ -51,3 +53,19 @@ Durante la realización del proyecto dentro de *Análisis de tareas* podremos ve
 Y una vez terminado el proyecto el cliente podrá dar un feedback este feedback se podrá ver dentro de *Calificación de clientes*.
 
 ### Vistas: tarjetas, lista, calendario propio.
+
+Si queremos ver las tareas de manera mas organizada tenemos dos opciones dentro del apartado de *Tareas*.
+
+Hay dos *Mis tareas* y *Todas las tareas*. Básicamente dentro de *Mis tareas* podrás ver las tareas que estan asignadas a ti y dentro de *Todas las tareas*, como indica su nombre podrás ver todas las tareas, tanto las que te asignaron a ti, como las que asignaron a tus compañeros de proyecto.
+
+<img src="../assets/img/08-proyectos/proyectos-Tareas.png" alt="asociacion" width="600">
+
+
+
+Si queremos ver el calendario del módulo de proyectos simplemente tendremos que ir arriba a la derecha y seleccionar la siguiente opcion
+
+<img src="../assets/img/08-proyectos/proyectos-Calendario.png" alt="asociacion" width="600">
+
+<img src="../assets/img/08-proyectos/proyectos-Calendario2.png" alt="asociacion" width="600">
+
+La diferencia entre este calendario y el propio calendario de Odoo es basicamente que el calendario de Odoo es para videollamadas, citas, y todo ese tipo de cosas minetras que el calendario de proyectos son para ver los proyectos y tareas pendientes.
