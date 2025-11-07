@@ -55,6 +55,3 @@ Aquí nos dara tres opciones *Informaciónm del módulo* (para ver de que se tra
 
 Al desinstalar tenemos que tener mucho cuidado ya que en caso de que tengamos datos dentro de ese módulo se borrarán y se perderan esos datos.
 
-## Resultado esperado
-
-- Acceso al panel principal con las apps instaladas.
