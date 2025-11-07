@@ -1,4 +1,4 @@
-# Manual de Odoo — {Nombre Apellidos}
+# Manual de Odoo — {Rodrigo Montoya Pastor}
 
 ![Texto-alternativo](../assets/img/00-Portada/Portada-odoo.png)
 
