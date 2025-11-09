@@ -1,7 +1,22 @@
 # 06 — Configuración inicial
 
-1. Localiza archivos de **configuración** (si aplica) y el puerto por defecto (ej. `8069`).
-2. (Opcional) Ajusta idioma, zona horaria, y otros parámetros iniciales.
-3. Anota la **URL de acceso local** (p. ej., `http://localhost:8069`).
 
-> Resultado esperado: parámetros básicos identificados/documentados.
+EL archivo de configuración estará en la siguiente ruta
+
+`C:\Program Files\Odoo 19.0.20251109\server`
+
+Y el arhivo principal se llamará los odoo.conf
+
+[options]
+
+admin_passwd = tu_contraseña_segura
+
+db_host = localhost
+
+db_port = 5432
+
+db_user = postgres
+
+db_password = tu_contraseña
+
+Hay mas cosas en ese archivo pero esto es lo principal, donde se indica tu usuario, el puerto, la contraseña, ...
