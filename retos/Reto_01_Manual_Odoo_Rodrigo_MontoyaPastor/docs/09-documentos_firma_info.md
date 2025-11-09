@@ -1,6 +1,5 @@
 # 09 — Documentos, Firma e Información (Knowledge)
 
-
 Desde la pantalla principal (pantalla de apps), podremos acceder al módulo de documentos en caso de que no lo tengamos instalado tendremos que irnos a *Aplicaciones* para instalarlo.
 
 <img src="../assets/img/09-documentos_firma_info/documentos-Organizacion.png" alt="asociacion" width="800">
@@ -41,5 +40,16 @@ Una vez terminado el documento le daremos a enviar y nos saldra la siguiente pan
 
 Cuando le demos a firmar ahora tendremos que rellenar los campos que elegimos antreriormente y ya tendremos el contrato firmado y podremos descargarlo.
 
+### **Información (Knowledge)**: wiki tipo Notion, permisos y publicación.
 
-- **Información (Knowledge)**: wiki tipo Notion, permisos y publicación.
+El módulo de Información es una wiki interna que nos servira para centralizar la información de la empresa y compartirla de manera muy sencilla con los empleados.
+
+<img src="../assets/img/09-documentos_firma_info/info-Inicio.png" alt="asociacion" width="800">
+
+Este módulo es basicamente un editor de texto donde podremos insertar fotos, documentación, ...
+
+Para crear uno nuevo nos tenemos que ir arriba a la izquierda y darle a *Nuevo articulo*.
+
+<img src="../assets/img/09-documentos_firma_info/info-compartir.png" alt="asociacion" width="600">
+
+Si lo quisieramos compartir Odoo nos da la opcion desde arriba a la derecha (como un documento de google). Al invitar a alguien le podremos poner los permisos que nosotros queramos tanto editor como solo lector, que viene muy bien por cuestiones de seguridad.
