@@ -1,9 +1,19 @@
 # 08 — Creación de base de datos de prueba
 
-1. Accede a `http://localhost:8069` en tu navegador.
+Para crear una base de datos hay dos maneras, en caso de que hayamos accedido por primera vez a `http://localhost:8069` nos pedirá introducir los datos para crear una base de datos.
+
+En caso de que queramos otra base de datos tendremos que acceder a `http://localhost:8069/web/database/manager`, aqui nos aparecerá las diferentes bases de datos que tengamos.
+
+![Crear BD](../assets/img/08-creacion_bd_prueba/creacion-DB.png "Crear base de datos")
+
+Una vez dentro le daremos a Create Database, y nos pedirá introducir unos datos (nombre, contraseña, email, ...) para la creación de la base de datos
+
+![Crear BD](../assets/img/08-creacion_bd_prueba/creacion-DB-Datos.png "Crear base de datos")
+
+
+1. Accede a  en tu navegador.
 2. Crea una **base de datos nueva** (admin email y contraseña).
 3. Elige módulos iniciales si procede.
 
-![Crear BD](../assets/img/08-creacion_bd_prueba/paso01_crear-bd.png "Crear base de datos")
 
 > Resultado esperado: BD de prueba creada y primer acceso.
