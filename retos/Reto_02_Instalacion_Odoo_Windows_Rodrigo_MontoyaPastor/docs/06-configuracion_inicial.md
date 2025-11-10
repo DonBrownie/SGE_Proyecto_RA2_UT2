@@ -5,7 +5,7 @@ EL archivo de configuración estará en la siguiente ruta
 
 `C:\Program Files\Odoo 19.0.20251109\server`
 
-Y el arhivo principal se llamará los odoo.conf
+Y el arhivo principal se llamará los `odoo.conf`
 
 [options]
 
