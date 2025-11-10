@@ -13,10 +13,3 @@ En el propio instalador nos da la opción de instalarlo en caso de que no lo ten
 En la configuración nos pedira un puerto un nombre y contraseña
 
 Tanto el hostname como el puerto lo dejarmeos por defecto, pero el nombre y la contraseña sera el que nosotros queramos (importante acordarse tanto del usuario como de la contraseña para poder tener acceso a la base de datos).
-
-1. Si no, descarga **PostgreSQL para Windows** e instálalo:
-   - Selecciona versión soportada por tu Odoo.
-   - Define usuario `postgres` y contraseña **segura** (anótala).
-2. Comprueba que el **servicio de PostgreSQL** está en ejecución.
-
-> Resultado esperado: PostgreSQL instalado y funcionando (usuario/puerto guardados).
