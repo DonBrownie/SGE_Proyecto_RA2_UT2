@@ -11,7 +11,7 @@ En caso de que no tendremos que poner lo siguiente en la URL:
 
 [localhost:8069](http://localhost:8069/)
 
-![Asistente Odoo](../assets/img/05-instalacion_odoo/instalacion-accesoSinUrl.png "Asistente de instalación")
+![Asistente Odoo](../assets/img/05-instalacion_odoo/instalacion-accesoSInUrl.png "Asistente de instalación")
 
 Una vez puestos los datos entraremos al panel inicial
 
