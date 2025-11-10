@@ -10,7 +10,7 @@
 
 - Espacio libre: 5 GB
 - Memoria RAM: 4 GB mínimo (8 GB recomendado)
-- Conexión a Internet estable
+- Conexión a Internet
 
 ### Herramientas necesarias
 
@@ -23,6 +23,3 @@
 - Permisos de **administrador** para instalar software.1
 - **Conexión** a Internet.
 - Espacio libre en disco (recomendado ≥ 5–10 GB).
-- (Opcional) **Navegador** y cliente Git para descargar recursos.
-
-> Resultado esperado: confirmas versión de Windows y permisos, y preparas el entorno para instalar.
