@@ -10,10 +10,6 @@ Una vez dentro le daremos a Create Database, y nos pedirá introducir unos datos
 
 ![Crear BD](../assets/img/08-creacion_bd_prueba/creacion-DB-Datos.png "Crear base de datos")
 
+![Crear BD](../assets/img/08-creacion_bd_prueba/creacion-Apps.png "Crear base de datos")
 
-1. Accede a  en tu navegador.
-2. Crea una **base de datos nueva** (admin email y contraseña).
-3. Elige módulos iniciales si procede.
-
-
-> Resultado esperado: BD de prueba creada y primer acceso.
+Cuando la hayamos creado podremos seleccionar los modulos que queramos.
