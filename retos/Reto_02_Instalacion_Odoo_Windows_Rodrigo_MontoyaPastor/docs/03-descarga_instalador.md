@@ -4,11 +4,11 @@ Primero accederemos a la web oficial de Odoo y tendremos dos versiones la *Commu
 
 [https://www.odoo.com/es_ES/page/download](https://www.odoo.com/es_ES/page/download)
 
-![Web oficial](../assets/img/03-descarga_instalador/descarga-instalador.png "Página de descarga")
+![Web oficial](assets/img/03-descarga_instalador/descarga-instalador.png "Página de descarga")
 
 Descarga la **versión estable** que vayas a usar en clase (anota la **versión exacta**).
 
-![Descarga](../assets/img/03-descarga_instalador/descarga-exe.png "Descargar instalador")
+![Descarga](assets/img/03-descarga_instalador/descarga-exe.png "Descargar instalador")
 
 En mi caso me he instalado la siguiente versión.
 
