@@ -1,6 +1,11 @@
 # 07 — Configuración de Odoo (`/etc/odoo/odoo.conf`)
 
 1. Crea/edita el archivo de configuración con:
+
+   ``nano /etc/odoo/odoo.conf``
+
+   Dentro de este archivo se deberían de modificar los siguientes datos:
+
    ```ini
    [options]
    db_host = False
@@ -12,6 +17,7 @@
    xmlrpc_port = 8069
    ```
 2. Crea carpetas y permisos si procede:
+
    ```bash
    sudo mkdir -p /var/log/odoo && sudo chown odoo:odoo /var/log/odoo
    ```
