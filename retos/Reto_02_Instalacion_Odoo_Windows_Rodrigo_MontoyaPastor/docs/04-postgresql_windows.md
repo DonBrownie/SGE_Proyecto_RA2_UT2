@@ -6,9 +6,9 @@ Para poder tener Odoo es necesario tener PostgreSQL (us sistema de gestión de b
 
 En el propio instalador nos da la opción de instalarlo en caso de que no lo tengamos.
 
-![Instalar PostgreSQL](assets/img/04-postgresql_windows/postgre-instalacion.png "Asistente de PostgreSQL")
+![Instalar PostgreSQL](../assets/img/04-postgresql_windows/postgre-instalacion.png "Asistente de PostgreSQL")
 
-![Instalar PostgreSQL](assets/img/04-postgresql_windows/postgre-configuracion01.png "Asistente de PostgreSQL")
+![Instalar PostgreSQL](../assets/img/04-postgresql_windows/postgre-configuracion01.png "Asistente de PostgreSQL")
 
 En la configuración nos pedira un puerto un nombre y contraseña
 
