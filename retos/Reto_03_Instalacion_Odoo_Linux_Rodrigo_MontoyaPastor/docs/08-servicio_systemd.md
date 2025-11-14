@@ -20,11 +20,12 @@
 
 
 2. Recarga y arranca:
-   ```bash
-   sudo systemctl daemon-reload
-   sudo systemctl enable --now odoo
-   sudo systemctl status odoo
-   ```
+   Primero es necesario recargarlo para que el systemd pueda leerlo
+   ``sudo systemctl daemon-reload``
+   Iniciamos Odoo
+   ``sudo systemctl enable --now odoo``
+   Y miramos si esta activo
+   ``sudo systemctl status odoo ``
 
    ![systemd](../assets/img/08-servicio_systemd/servicio-status.png "Estado de systemd")
 
