@@ -1,10 +1,12 @@
 # 07 — Configuración de Odoo (`/etc/odoo/odoo.conf`)
 
 1. Crea/edita el archivo de configuración con:
+   
+   Primero deberemos de configurar el archivo de configuración de Odoo con el siguiente comando
 
    ``nano /etc/odoo/odoo.conf``
 
-   Dentro de este archivo se deberían de modificar los siguientes datos:
+   Una vez dentro de este archivo se deberían de modificar los siguientes datos:
 
    ```ini
    [options]
@@ -16,9 +18,12 @@
    logfile = /var/log/odoo/odoo.log
    xmlrpc_port = 8069
    ```
-2. Crea carpetas y permisos si procede:
+3. Crea carpetas y permisos si procede:
+
+   Si queremos revisar los cambios (desde errores, avisos, arranques, ...) que vayan pasando dentro de Odoo, habrá que utilizar el siguiente comando:
 
    ```bash
    sudo mkdir -p /var/log/odoo && sudo chown odoo:odoo /var/log/odoo
    ```
 
+   Esta carpeta es muy importante ya que nos ayudará a depurar errores.
