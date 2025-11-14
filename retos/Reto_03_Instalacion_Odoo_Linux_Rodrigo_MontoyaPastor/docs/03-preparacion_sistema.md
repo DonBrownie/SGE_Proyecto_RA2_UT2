@@ -5,8 +5,6 @@
    `` sudo apt update && sudo apt upgrade -y``
    Update se encargara de actualizar la lista de paquetes disponibles mientras que upgrade los descarga e instala a la versión más reciente
 
-   1. Configura zona horaria e idioma si procede.
+2. Configura zona horaria e idioma si procede.
 
    ``sudo timedatectl set-timezone Europe/Madrid``
-
-> Resultado esperado: sistema actualizado y listo para instalar dependencias.
