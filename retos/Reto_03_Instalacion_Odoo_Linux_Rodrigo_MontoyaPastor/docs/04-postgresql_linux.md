@@ -12,6 +12,3 @@ Instalamos la base de datos.
 ![Servicio PostgreSQL](../assets/img/04-postgresql_linux/postgresql-instalacion.png "Estado del servicio")
 
 Una vez instalado hay que asegurar de que se ha instalado, con ese comando podemos ver el estado del servicio y con esto se podría comprobar.
-
-
-> Resultado esperado: PostgreSQL instalado y activo.
