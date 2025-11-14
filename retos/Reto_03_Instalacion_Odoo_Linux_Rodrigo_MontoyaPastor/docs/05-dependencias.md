@@ -18,6 +18,4 @@
 
    ![Servicio PostgreSQL](../assets/img/05-dependencias/dependencias-version.png "Estado del servicio")
 
-   Una vez instalado toca revisar las versiones para ver si se ha llegado a instalar correctamenteç
-
-> Resultado esperado: dependencias instaladas y comprobadas.
+   Una vez instalado toca revisar las versiones para ver si se ha llegado a instalar correctamente
