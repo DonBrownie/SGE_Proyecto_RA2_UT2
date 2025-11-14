@@ -22,4 +22,3 @@
    sudo mkdir -p /var/log/odoo && sudo chown odoo:odoo /var/log/odoo
    ```
 
-> Resultado esperado: configuración mínima funcional creada.
