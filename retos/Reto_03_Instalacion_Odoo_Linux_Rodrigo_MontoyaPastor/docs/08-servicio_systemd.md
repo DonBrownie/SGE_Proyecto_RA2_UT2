@@ -16,7 +16,7 @@
    [Install]
    WantedBy=multi-user.target
    ```
-![systemd](../assets/img/08-servicio_systemd/servicio-creacion.png "Estado de systemd")
+   ![systemd](../assets/img/08-servicio_systemd/servicio-creacion.png "Estado de systemd")
 
 
 2. Recarga y arranca:
@@ -26,5 +26,5 @@
    sudo systemctl status odoo
    ```
 
-![systemd](../assets/img/08-servicio_systemd/servicio-status.png "Estado de systemd")
+   ![systemd](../assets/img/08-servicio_systemd/servicio-status.png "Estado de systemd")
 
